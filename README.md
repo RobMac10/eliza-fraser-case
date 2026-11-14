@@ -1,6 +1,6 @@
 # Eliza Fraser and the wreck of the Stirling Castle
 
-A draft classroom case file (Year 9, Case 23) from *Reopen the Record: Australian Histories*.
+A draft classroom case file (Year 9, Case 4) from *Reopen the Record: Australian Histories*.
 
 The question is: was Eliza Fraser a captive, or a guest? The opener is *Letter from the longboat*, in the voice of C. Brown, early July 1836.
 
