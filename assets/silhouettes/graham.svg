@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" role="img" aria-labelledby="t d">
+  <title id="t">Silhouette name card for John Graham</title>
+  <desc id="d">A plain period-style silhouette of a man’s head and shoulders, with a name card. This is not a portrait or a likeness of John Graham.</desc>
+  <rect width="300" height="400" fill="#f7f0e3"/>
+  <rect x="18" y="18" width="264" height="364" fill="none" stroke="#c9a96a" stroke-width="2"/>
+  <ellipse cx="150" cy="128" rx="58" ry="70" fill="#2b221c"/>
+  <path d="M108 86 C118 70, 182 70, 192 86 C186 96, 114 96, 108 86 Z" fill="#2b221c"/>
+  <path d="M96 190 C96 230, 112 250, 150 250 C188 250, 204 230, 204 190 L192 210 C192 238, 174 252, 150 252 C126 252, 108 238, 108 210 Z" fill="#2b221c"/>
+  <path d="M70 262 C94 246, 206 246, 230 262 C254 296, 262 340, 262 340 L38 340 C38 340, 46 296, 70 262 Z" fill="#2b221c"/>
+  <rect x="40" y="348" width="220" height="26" fill="#fffaf2" stroke="#3a2a1c" stroke-width="1"/>
+  <text x="150" y="366" text-anchor="middle" font-family="Georgia, Times, serif" font-style="italic" font-size="15" fill="#2b221c">John Graham</text>
+</svg>

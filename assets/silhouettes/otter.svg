@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" role="img" aria-labelledby="t d">
+  <title id="t">Silhouette name card for Charles Otter</title>
+  <desc id="d">A plain period-style silhouette of a man’s head and shoulders, with a name card. This is not a portrait or a likeness of Charles Otter.</desc>
+  <rect width="300" height="400" fill="#f7f0e3"/>
+  <rect x="18" y="18" width="264" height="364" fill="none" stroke="#c9a96a" stroke-width="2"/>
+  <ellipse cx="150" cy="122" rx="54" ry="68" fill="#2b221c"/>
+  <path d="M112 78 C122 64, 178 64, 188 78 C180 90, 120 90, 112 78 Z" fill="#2b221c"/>
+  <path d="M100 186 C100 220, 116 236, 150 236 C184 236, 200 220, 200 186" fill="#2b221c"/>
+  <path d="M78 236 C78 236, 92 252, 150 252 C208 252, 222 236, 222 236 L230 268 C250 300, 258 340, 258 340 L42 340 C42 340, 50 300, 70 268 Z" fill="#2b221c"/>
+  <path d="M118 236 L118 268 L182 268 L182 236" fill="#2b221c"/>
+  <rect x="40" y="348" width="220" height="26" fill="#fffaf2" stroke="#3a2a1c" stroke-width="1"/>
+  <text x="150" y="366" text-anchor="middle" font-family="Georgia, Times, serif" font-style="italic" font-size="15" fill="#2b221c">Charles Otter</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" role="img" aria-labelledby="t d">
+  <title id="t">Silhouette name card for Eliza Fraser</title>
+  <desc id="d">A plain period-style silhouette of a woman’s head and shoulders, with a name card. This is not a portrait or a likeness of Eliza Fraser.</desc>
+  <rect width="300" height="400" fill="#f7f0e3"/>
+  <rect x="18" y="18" width="264" height="364" fill="none" stroke="#c9a96a" stroke-width="2"/>
+  <ellipse cx="168" cy="86" rx="28" ry="22" fill="#2b221c"/>
+  <ellipse cx="148" cy="132" rx="60" ry="72" fill="#2b221c"/>
+  <path d="M90 178 C88 228, 102 252, 148 252 C196 252, 210 228, 208 178 L196 198 C196 242, 174 266, 148 266 C122 266, 100 242, 100 198 Z" fill="#2b221c"/>
+  <path d="M64 266 C88 248, 208 248, 232 266 C252 298, 262 340, 262 340 L38 340 C38 340, 48 298, 64 266 Z" fill="#2b221c"/>
+  <rect x="40" y="348" width="220" height="26" fill="#fffaf2" stroke="#3a2a1c" stroke-width="1"/>
+  <text x="150" y="366" text-anchor="middle" font-family="Georgia, Times, serif" font-style="italic" font-size="15" fill="#2b221c">Eliza Fraser</text>
+</svg>
