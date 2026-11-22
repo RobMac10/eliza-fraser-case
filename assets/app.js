@@ -7,7 +7,8 @@
     letter: document.getElementById('letter'),
     case: document.getElementById('case'),
     finding: document.getElementById('finding'),
-    sleuth: document.getElementById('sleuth')
+    sleuth: document.getElementById('sleuth'),
+    deeptime: document.getElementById('deeptime')
   };
   var aliases = {
     diary: 'letter',
